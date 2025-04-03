@@ -6,8 +6,8 @@ body {
 }
  
 header {
-    background-color: #530505;
-    color: rgb(189, 185, 185);
+    background-color: #092558;
+    color: rgb(202, 195, 195);
     padding: 20px;
 }
  
@@ -22,7 +22,7 @@ nav ul li {
 }
  
 nav a {
-    color: white;
+    color: rgb(214, 212, 212);
     text-decoration: none;
     font-size: 18px;
 }
@@ -52,7 +52,7 @@ nav a {
 article {
     margin: 30px;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 10px;
     width: 50%;
     margin-left: auto;
